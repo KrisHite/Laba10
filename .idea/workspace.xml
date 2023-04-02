@@ -4,29 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2254c185-ff69-48ae-8dc8-0b0be8a94442" name="Changes" comment="Выполнил примеры по XML">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/SparseBitSet_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_collections4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_compress_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_math3_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_15_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_5_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_ooxml_5_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_ooxml_lite_5_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/xmlbeans_5_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example_8.java" afterDir="false" />
+    <list default="true" id="2254c185-ff69-48ae-8dc8-0b0be8a94442" name="Changes" comment="Выполнил первое задание">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/resources/Library.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laba10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Laba10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Example_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Example_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/alexg/IdeaProjects/Librares/lib/SparseBitSet-1.2.jar",
+    "last_opened_file_path": "C:/Users/alexg/IdeaProjects/Laba10/src/Tasks/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,48 +53,28 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example_8">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexg\IdeaProjects\Laba10\src\Tasks\resources" />
+      <recent name="C:\Users\alexg\IdeaProjects\Laba10\src\Tasks\resourses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task_2">
+    <configuration name="Example_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Example_3" />
+      <module name="Laba10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Example_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.Example_4" />
-      <module name="Laba10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_5" />
-      <module name="Laba10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_6" />
-      <module name="Laba10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.Example_7" />
       <module name="Laba10" />
       <extension name="coverage">
         <pattern>
@@ -135,13 +99,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_1" />
+      <module name="Laba10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_2" />
+      <module name="Laba10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example_8" />
-        <item itemvalue="Application.Example_7" />
-        <item itemvalue="Application.Example_6" />
-        <item itemvalue="Application.Example_5" />
+        <item itemvalue="Application.Task_2" />
+        <item itemvalue="Application.Example_3" />
         <item itemvalue="Application.Example_4" />
+        <item itemvalue="Application.Task_1" />
+        <item itemvalue="Application.Example_8" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679413768818</updated>
       <workItem from="1679413770235" duration="9564000" />
-      <workItem from="1679684837335" duration="11703000" />
+      <workItem from="1679684837335" duration="30086000" />
     </task>
     <task id="LOCAL-00001" summary="Выполнил примеры по XML">
       <created>1679417280760</created>
@@ -163,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679417280760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Выполнил все примеры">
+      <created>1680019807280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680019807280</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Выполнил первое задание">
+      <created>1680200953788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680200953788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +175,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнил примеры по XML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил примеры по XML" />
+    <MESSAGE value="Выполнил все примеры" />
+    <MESSAGE value="Выполнил первое задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнил первое задание" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,7 +187,17 @@
           <line>19</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Examples/Example_3.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

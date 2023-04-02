@@ -8,7 +8,6 @@ import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
-import javax.xml.xpath.*;
 import java.io.File;
 import java.util.Scanner;
 
@@ -51,7 +50,7 @@ public class Task_1 {
         }
     }
     //Тут методы лоя работы с XML библиотекой
-    public static void AddBook(String filePath, String bookName, String author, String year){
+    private static void AddBook(String filePath, String bookName, String author, String year){
         try{
             File inFile = new File(filePath);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -93,7 +92,7 @@ public class Task_1 {
             e.printStackTrace();
         }
     }
-    public static void SearchBook(String filePath, String author, String year){
+    private static void SearchBook(String filePath, String author, String year){
         try{
             File inFile = new File(filePath);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -125,7 +124,7 @@ public class Task_1 {
             e.printStackTrace();
         }
     }
-    public static void DeleteBook(String filePath, String bookName){
+    private static void DeleteBook(String filePath, String bookName){
         try{
             File inFile = new File(filePath);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();

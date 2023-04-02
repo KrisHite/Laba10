@@ -24,7 +24,7 @@ public class Example_3 {
 
         library.put("books", books);
 
-        try(FileWriter file = new FileWriter("src/Examples/example_json.json")){
+        try(FileWriter file = new FileWriter("src/Tasks/resources/Library.json")){
             file.write(library.toJSONString());
             System.out.println("JSON файл успешно создан!");
         }catch(Exception e){
