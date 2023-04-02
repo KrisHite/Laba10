@@ -74,15 +74,11 @@ public class Task_3 {
                 for(int i = 3; i <= 0; i--){
                     System.out.println(i);
                     Thread.sleep(1000);
-                }
-            } catch(IOException e){
+                }            } catch(IOException e){
                 e.printStackTrace();
             }
 
         }
-        //Запись в файл новостей
-
-
 
     }
 }
